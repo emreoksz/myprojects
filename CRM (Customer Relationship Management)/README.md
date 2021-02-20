@@ -2,7 +2,8 @@
 
 ---
 
-![](https://cdn-images-1.medium.com/max/1000/1*8kB7crU624Xc4Gksb327mw.png)
+<img align="center" alt="GIF" src="https://cdn-images-1.medium.com/max/1000/1*8kB7crU624Xc4Gksb327mw.png" width="600" height="360" />
+
 
 ## Amaç
 
@@ -19,8 +20,6 @@ Bu proje hakkında yazdığım Medium yazıma ulaşmak için: [CRM Analytics (RF
 
 ## Veri Seti
 
----
-
 İngiltere merkezli hediyelik eşya satan bir e-ticaret şirketinin 01/12/2009 - 09/12/2011 tarihleri arasındaki 
 satışlarını gösteren bir veri setidir.
 
@@ -29,8 +28,6 @@ Veri Seti Linki: (https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
 
 ## Yazar
-
----
 
 * Emre Öksüz - [emreoksz](https://github.com/emreoksz)
 
