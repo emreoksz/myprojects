@@ -6,8 +6,6 @@
 
 ## Amaç
 
----
-
 Bir e-ticaret şirketi müşterilerini 3 farklı segmentasyon yöntemini birlikte kullanarak segmentlere ayırıp analiz edeceğiz.
 1. RFM Analizi ile müşterilerin Receny(en son satın alma ) ve Frequency değerlerine göre segmentlere ayıracağız.
    
