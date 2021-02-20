@@ -4,7 +4,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1000/1*8kB7crU624Xc4Gksb327mw.png)
 
-##Amaç
+## Amaç
 
 ---
 
@@ -30,7 +30,7 @@ Veri Seti Linki: (https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
 
 
-##Yazar
+## Yazar
 
 ---
 
