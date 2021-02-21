@@ -16,7 +16,7 @@ Bir e-ticaret şirketi müşterilerini 3 farklı segmentasyon yöntemini birlikt
 
 Projenin uygulamalı anlatımı ve kodlar : [CRM Final](https://github.com/emreoksz/myprojects/blob/main/CRM%20(Customer%20Relationship%20Management)/CRM_Final.ipynb) 
 
-Bu proje hakkında yazdığım Medium yazıma ulaşmak için: [CRM Analytics (RFM Analysis, CLTV)](https://github.com/emreoksz)
+Bu proje hakkında yazdığım Medium yazıma ulaşmak için: [CRM Analytics (RFM Analysis, CLTV)](https://emreoksuz.medium.com/crm-analytics-rfm-analysis-cltv-76010f064fcc)
 
 ## Veri Seti
 
